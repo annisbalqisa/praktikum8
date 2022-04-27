@@ -77,7 +77,7 @@ $row = $database->query($sql)->fetch_array();
           </div>
           <div class="col-12">
               <div class="d-grid">
-                  <a href="dekstop.php" class="btn btn-primary">Back</a>
+                  <a href="dekstop.php" class="btn btn-primary mb-3">Back</a>
               </div>
           </div>
       </div>
